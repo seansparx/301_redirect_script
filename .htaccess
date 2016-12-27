@@ -1,0 +1,16 @@
+
+			RewriteEngine on
+			#RewriteCond   %{REQUEST_URI}    ^/about-us.php$
+			#RewriteCond   %{QUERY_STRING}   ^keyword=&source=okay$
+			#RewriteRule   ^(.*)$ http://lifecoversearch.com/about-us.php?keyword=&source=&test=true   [R=301,L]
+			
+			#RewriteRule ^([A-Za-z0-9-]+)/?$ brand.php?cname=$1 [NC,L]
+			
+							#RewriteCond   %{REQUEST_URI}    ^/123.php$
+							#RewriteCond   %{QUERY_STRING}   ^asda$
+							#RewriteRule   ^(.*)$ http://projects.thesst.com/CSS5515/leaddesign/view/sssss [R=301,L]
+							
+							#RewriteCond   %{REQUEST_URI}    ^/lp1.php$
+							#RewriteCond   %{QUERY_STRING}   ^asdadfsdf$
+							#RewriteRule   ^(.*)$ http://projects.thesst.com/CSS5515/46665465 [R=301,L]
+							
